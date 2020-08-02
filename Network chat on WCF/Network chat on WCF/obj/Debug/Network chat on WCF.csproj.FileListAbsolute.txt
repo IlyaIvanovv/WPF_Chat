@@ -1,0 +1,5 @@
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\Network chat on WCF\bin\Debug\Network chat on WCF.dll.config
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\Network chat on WCF\bin\Debug\Network chat on WCF.dll
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\Network chat on WCF\bin\Debug\Network chat on WCF.pdb
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\Network chat on WCF\obj\Debug\Network chat on WCF.dll
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\Network chat on WCF\obj\Debug\Network chat on WCF.pdb

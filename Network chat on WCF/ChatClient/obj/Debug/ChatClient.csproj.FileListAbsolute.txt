@@ -1,0 +1,14 @@
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\App.g.cs
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatClient\obj\Debug\ChatClient.pdb

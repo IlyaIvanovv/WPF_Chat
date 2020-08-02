@@ -1,0 +1,10 @@
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\Network chat on WCF.dll
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\Network chat on WCF.pdb
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\bin\Debug\Network chat on WCF.dll.config
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\uSER\Desktop\Сетевой чат на WCF\Network chat on WCF\ChatHost\obj\Debug\ChatHost.pdb
